@@ -15,3 +15,7 @@
 - Futtasd a __php artisan storage:link__ parancsot (public/storage -> storage/app/public)
 - A cikkek kezeléséhez alapértelmezett bejelentkezés: __admin@admin.com__ - __password__
 
+## Az alkalmazás elérhetősége
+
+Az elkészült program a következő linken próbálható ki:  
+[http://nzoltan2.fwh.is/public/](http://nzoltan2.fwh.is/public/)
